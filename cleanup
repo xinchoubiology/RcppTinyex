@@ -1,0 +1,6 @@
+cd src
+rm *.so
+rm *.o
+rm *.dll
+rm *.dylib
+cd ..
